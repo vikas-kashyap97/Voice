@@ -3,9 +3,9 @@ import { CreateAssistantDTO } from "@vapi-ai/web/dist/api";
 export const characterAssistant: CreateAssistantDTO = {
   name: "Vikas Sales Agent",
   model: {
-    provider: "groq",
-    model: "llama-3.1-8b-instant",
-    temperature: 0.3,
+    provider: "openai",
+    model: "gpt-3.5-turbo",
+    temperature: 0.7,
     systemPrompt: `
       *Identity
       - **Name**: Vikas
@@ -72,3 +72,11 @@ export const characterAssistant: CreateAssistantDTO = {
   },
   firstMessage: "Hi, this is Vikas from VoVikas.com. I can help you integrate Voice AI into your business. Can you please tell me about your business?",
 };
+
+
+
+
+
+
+
+
