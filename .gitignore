@@ -28,5 +28,5 @@ dist-ssr
 !example.env
 .vercel
 
-env.config.ts
+src/config/env.config.ts
 .env.example
