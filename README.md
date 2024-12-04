@@ -2,6 +2,11 @@
 
 [Live link](https://voice-chatbotai.vercel.app/)
 
+
+## Preview
+![Project Preview](![image](https://github.com/user-attachments/assets/5e534569-5b78-410c-a829-38bc2f534fb3)
+)
+
 # Vapi Integration Starter Template
 
 This starter template is designed to help you quickly integrate Vapi into your project. It showcases a bot that assists authors in defining characters for their stories, demonstrating the ease of integrating Vapi to manipulate the frontend, display backend results, and leverage other capabilities.
