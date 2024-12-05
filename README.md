@@ -40,3 +40,7 @@ This starter template is designed to help you quickly integrate Vapi into your p
 ## Customization
 
 You can customize the bot's behavior and appearance by modifying the `character.assistant.ts` and the corresponding React components.
+
+## Lines of code 
+
+8652
