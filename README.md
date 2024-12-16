@@ -7,6 +7,7 @@
 
 This starter template is designed to help you quickly integrate Vapi into your project. It showcases a bot that assists authors in defining characters for their stories, demonstrating the ease of integrating Vapi to manipulate the frontend, display backend results, and leverage other capabilities.
 
+
 ## Features
 
 - **Real-time Interaction**: Interact with the bot in real-time to refine character traits and details.
